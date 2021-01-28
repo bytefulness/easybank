@@ -1,6 +1,6 @@
 # EasyBank
 
-Description: Bank Landing Page, From Codementor Challenge.
+Description: Bank Landing Page, From Frontendmentor.io Challenge.
 
 # What Did I Utilize In This Project?
 
